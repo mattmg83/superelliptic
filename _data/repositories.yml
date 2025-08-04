@@ -1,14 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - mattmg83
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - mattmg83/superelliptic
+  - mattmg83/football_fieldchart
+  - mattmg83/bulk_audio_trimmer
+  - mattmg83/plexmonitor
+  - mattmg83/breathflow
